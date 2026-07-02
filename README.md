@@ -34,8 +34,7 @@ con el fin de optimizar la oferta comercial de ConnectaTel.
 6. Segmentación por edad y nivel de uso
 7. Insight ejecutivo con recomendaciones comerciales
 
-Y tienes razón, falta agregar la guía de reproducción al README. Haz clic en el lápiz ✏️ del README en GitHub y agrega esta sección al final:
-markdown## 📋 Guía de reproducción
+## 📋 Guía de reproducción
 
 1. Clona o descarga este repositorio
 2. Asegúrate de tener instaladas las siguientes librerías:
