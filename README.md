@@ -34,6 +34,21 @@ con el fin de optimizar la oferta comercial de ConnectaTel.
 6. Segmentación por edad y nivel de uso
 7. Insight ejecutivo con recomendaciones comerciales
 
+Y tienes razón, falta agregar la guía de reproducción al README. Haz clic en el lápiz ✏️ del README en GitHub y agrega esta sección al final:
+markdown## 📋 Guía de reproducción
+
+1. Clona o descarga este repositorio
+2. Asegúrate de tener instaladas las siguientes librerías:
+   - pandas
+   - numpy
+   - seaborn
+   - matplotlib
+3. Coloca los archivos `plans.csv`, `users_latam.csv` y `usage.csv` 
+   en la carpeta `/datasets/`
+4. Abre el notebook `S7 Version-Estudiante-Project-ConnectaTel.ipynb`
+5. Ejecuta las celdas en orden desde la primera hasta la última
+6. Los resultados, gráficos y conclusiones se generan automáticamente
+
 ## ▶ Cómo ejecutar el notebook
 
 1. Descarga el archivo `connectatel_analysis.ipynb`
